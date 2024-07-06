@@ -3,5 +3,9 @@ Post analysis uses natural language processing and machine learning techniques t
 ![ss](https://github.com/shalutha1/Post_classification/assets/90474520/1f035d33-d801-437b-8e4f-77713e06b6ea)
 
 
-Uploading Untitled design.mp4…
+
+
+
+
+https://github.com/shalutha1/Post_classification/assets/90474520/d5232f5c-0509-4763-8ce8-dc21c157ec1b
 
